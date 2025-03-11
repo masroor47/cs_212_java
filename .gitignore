@@ -1,0 +1,10 @@
+# lecture slides
+class
+
+# java compiled
+*/**/*.class
+*/**/*.jar
+
+# javadoc
+
+*/**/JavaDoc
