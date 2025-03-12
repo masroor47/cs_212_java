@@ -8,3 +8,10 @@ class
 # javadoc
 
 */**/JavaDoc
+*/**/doc
+
+*/**/*.pptx
+*/**/*.pdf
+
+# mac
+.DS_Store
